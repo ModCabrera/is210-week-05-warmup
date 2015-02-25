@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """Function to find enough Catfood and Litter for Cats."""
 
+
+
 def too_many_kittens(kittens, litterboxes, catfood=bool()):
     """
     Fuction to find catfood and litterboxes for cats.
@@ -22,5 +24,5 @@ def too_many_kittens(kittens, litterboxes, catfood=bool()):
         >>> too_many_kittens(12,13,True)
         False
     """
-    result= not(litterboxes >= kittens and catfood)
+    result = not(litterboxes >= kittens and catfood)
     return result

@@ -16,8 +16,8 @@ def know_what_i_mean(wink, numwink=2):
 
     Examples:
 
-    >>> know_what_i_mean('hello')
-    'Know what I mean? hellohello, nudge nudge'
+        >>> know_what_i_mean('hello')
+        'Know what I mean? hellohello, nudge nudge'
     
     """
     winks = (wink * numwink).strip()
