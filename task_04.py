@@ -3,7 +3,7 @@
 """Function to find enough Catfood and Litter for Cats."""
 
 
-def too_many_kittens(kittes, litterboxes, catfood=bool):
+def too_many_kittens(kittens, litterboxes, catfood=bool):
     """Evaluates if there is enough litterboxes for each kitten, and if catfood.
 
     Args:
