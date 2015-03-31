@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This module does some pretty crazy math."""
+"""Module imports hamlet to do some crazy math."""
 
 
 import hamlet
