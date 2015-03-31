@@ -4,7 +4,7 @@
 
 
 
-def too_many_kittens(kittens, litterboxes, catfood=bool()):
+def too_many_kittens(kittens,litterboxes,catfood=bool()):
     """Evaluates if there is enough litterboxes for each kitten, and if catfood.
 
     Args:

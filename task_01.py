@@ -8,10 +8,10 @@ def know_what_i_mean(wink, numwink=2):
 
     Args:
         wink (str): Arg to be arithmetically factored by numwink.
-        numwink (int, optional): Arg to be airthmeticaly factored by numwink. Default: 2
+        numwink (int, optional): Arg to be airthmeticaly factored by numwink.
 
     Returns:
-        retstr (str): String formated, returns winks by numwink and nudges by numwinks.
+        retstr (str): Returns winks by numwink and nudges by numwinks.
 
     Examples:
 
